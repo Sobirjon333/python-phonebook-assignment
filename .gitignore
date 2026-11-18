@@ -1,0 +1,11 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Runtime data created by the application
+data/contacts.json
+
+# Operating system files
+.DS_Store
